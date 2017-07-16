@@ -1,4 +1,5 @@
 #solve systems of equations and graph the solution
+#Work in progress, stuck at 'numpy.float64' object cannot be interpreted as an integer' from the y value in line 24 to being used in line 8
 import matplotlib.pyplot as plt
 import numpy as np
 
