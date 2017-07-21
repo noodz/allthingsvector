@@ -3,11 +3,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-
-import matplotlib.pyplot as plt
-import numpy as np
-
-
 def sofleq(example):
     
     for i,l in enumerate(x,y):
